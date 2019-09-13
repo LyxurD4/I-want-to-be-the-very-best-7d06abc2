@@ -1,0 +1,14 @@
+table,
+td {
+    border: 1px solid;
+    padding: 5px;
+}
+
+td {
+    padding-right: 75px;
+}
+
+body {
+    font-family: Arial;
+    font-size: 14px;
+}
